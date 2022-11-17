@@ -1,1 +1,1 @@
-Second group of 2 ALX project
+Second group of 2 in ALX project
